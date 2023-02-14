@@ -1,0 +1,158 @@
+User : hi
+Bot : appointment details saved. you shall be contacted shortly.
+User : my name is atul
+Bot : Good, now take some rest and then let me know if you are feeling better after having sudafed tablet!
+User : hi  atul
+Bot : appointment details saved. you shall be contacted shortly.
+User : hi
+Bot : all doctors are attending patients. we shall revert to your request soon. Do you want to book an appointment?
+User : hello
+Bot : I was created in August 2020.
+User : what are your interests
+Bot : I am interested in helping you medically!!
+User : who is your father
+Bot : I was created in August 2020.
+User : what is your location
+Bot : We are located at Puducherry
+User : i have cough
+Bot : Okay, this is a symptom of cough , do you have cough?.
+User : yes'
+Bot : You should take a sudafed tablet after your meal.
+User : my chest
+Bot : let me know if you are feeling better after having benadryl.
+User : my  chest is aching
+Bot : You should take a spoon full of benadryl after your meal.
+User : ok  i will take benadryl
+Bot : Okay, this is a symptom of cough , do you have cough?.
+User : hello
+Bot : You can call me RoBot.
+User : hello
+Bot : You can call me RoBot.
+User : HELLO
+Bot : We are located at Puducherry
+User : I AM HAVING COUGH
+Bot : Yes Sure!
+User : hello
+Bot : You can contact the helpline at +91 9999 11111
+User : common cold symptoms
+Bot : Ok, its not just a normal cold, you should consult a doctor.
+User : chest  pain
+Bot : You should take a spoon full of benadryl after your meal.
+User : chest  pain
+Bot : Okay, this is a symptom of cough , do you have cough?.
+User : yes i have cough
+Bot : Yes Sure!
+User : i am  not feeling well
+Bot : let me know if you are feeling better after having crocin
+User : i have a migrain headache
+Bot : what kind of headache do you have : 1. Migrane headache - intense throbbing pain on just one side of the head. 2. Cluster headaches - severe and recurrent headaches 3. Tension Headache - Ocassional;!
+User : 1
+Bot : I am interested in helping you medically!!
+User : Tension Headache
+Bot : symptom noted. Migraines tend to be recurrent, and each attack may last up to 3 days. would you like to talk to a doctor?
+User : hello
+Bot : I'm RoBot!
+User : chest  pain
+Bot : let me know if you are feeling better after having benadryl.
+User : HELLO
+Bot : We are located at Puducherry
+User : i have chest pain
+Bot : You should take a spoon full of benadryl after your meal.
+User : Hello
+Bot : I'm RoBot!
+User : chest pain
+Bot : You should take a spoon full of benadryl after your meal.
+User : see you later
+Bot : goodbye
+User : how old are you
+Bot : I get reborn after every compilation
+User : Runny or stuffy nose
+Bot : It seems that you are suffering from common cold
+User : weight loss
+Bot : It seems that you are suffering from Diabetes
+User : i am having  weight loss
+Bot : It seems that you are suffering from Diabetes
+User : hello
+Bot : hello
+User : cold
+Bot : medicines you can consume : Dextromethorphan,Decongestant,Diphenhydramine,Crocin Cold & Flu Max, preventions that you must follow :Wash your hands,Avoid touching your face,Clean frequently used surfaces,Use hand sanitizers,SUGGESTED FOODS ARE:Garlic,Vitamin C–containing fruits,Leafy greens,Broccoli,Oatmeal,Spices,Chicken Soup
+User : hello
+Bot : what can i do for you?
+User : common cold symptoms
+Bot : medicines you can consume : Dextromethorphan,Decongestant,Diphenhydramine,Crocin Cold & Flu Max, preventions that you must follow :Wash your hands,Avoid touching your face,Clean frequently used surfaces,Use hand sanitizers,SUGGESTED FOODS ARE:Garlic,Vitamin C–containing fruits,Leafy greens,Broccoli,Oatmeal,Spices,Chicken Soup
+User : how old are you
+Bot : I get reborn after every compilation
+User : how old are you
+Bot : my owners are averagely 20 years!
+User : hello
+Bot : what can i do for you?
+User : hello
+Bot : hello
+User : cough
+Bot : It seems that you are suffering from common cold
+User : cough
+Bot : It seems that you are suffering from common cold
+User : fever
+Bot : medicines you can consume : acetaminophen ,ibuprofen,aspirin,Crocin Cold & Flu Max, prevention that you must follow :Wash your hands,Cover your mouth when you cough and your nose when you sneeze,Clean frequently used surfaces,Avoid sharing cups, glasses, and eating utensils with other people.,SUGGESTED FOODS ARE:Garlic,Vitamin C–containing fruits,Leafy greens,Broccoli,Oatmeal,Spices,Chicken Soup
+User : hello
+Bot : hey!
+User : hello
+Bot : hey!
+User : cough
+Bot : It seems that you are suffering from common cold
+User : i have cough
+Bot : It seems that you are suffering from common cold
+User : i am  not feeling good
+Bot : what can i do for you?
+User : hi
+Bot : what can i do for you?
+User : hi
+Bot : what can i do for you?
+User : fever
+Bot : It seems that you are suffering from common cold
+User : i  am not feeling  good
+Bot : hello
+User : i  am bnot feeling  good
+Bot : hello
+User : andlk
+Bot : It seems that you are suffering from fever
+User : dlkanl 
+Bot : It seems that you are suffering from fever
+User : nald jj
+Bot : It seems that you are suffering from fever
+User : a dkdbakjj
+Bot : have a nice day
+User : hi
+Bot : what can i do for you?
+User : i  have asthama
+Bot : have a nice day
+User : i have cough
+Bot : It seems that you are suffering from common cold
+User : asthama symptoms
+Bot : It seems that you are suffering from fever
+User : shortness of breath
+Bot : It seem that you are suffering from Asthma
+User : how old are you
+Bot : hey!
+User : how old are you
+Bot : I get reborn after every compilation
+User : What medicines can I buy to help me with my asthma?
+Bot : medicines you can consume : epinephrine,anticholinergic,Proair HFA, prevention that you must follow : Identify Asthma Triggers, Stay Away From Allergens,Avoid Smoke of Any Type,SUGGESTED FOODS ARE:carrots,juice,eggs,broccoli,cantaloupe,milk
+User : what  medicines for asthama
+Bot : what can i do for you?
+User : what medicines for asthama
+Bot : hey!
+User : daj 
+Bot : It seems that you are suffering from fever
+User : lksl jf
+Bot : It seems that you are suffering from fever
+User : fever 
+Bot : It seems that you are suffering from common cold
+User : fever prevention
+Bot : medicines you can consume : acetaminophen ,ibuprofen,aspirin,Crocin Cold & Flu Max, prevention that you must follow :Wash your hands,Cover your mouth when you cough and your nose when you sneeze,Clean frequently used surfaces,Avoid sharing cups, glasses, and eating utensils with other people.,SUGGESTED FOODS ARE:Garlic,Vitamin C–containing fruits,Leafy greens,Broccoli,Oatmeal,Spices,Chicken Soup
+User : tell  me some prevention methods
+Bot : medicines you can consume : epinephrine,anticholinergic,Proair HFA, prevention that you must follow : Identify Asthma Triggers, Stay Away From Allergens,Avoid Smoke of Any Type,SUGGESTED FOODS ARE:carrots,juice,eggs,broccoli,cantaloupe,milk
+User : hi
+Bot : what can i do for you?
+User : asthma
+Bot : medicines you can consume : epinephrine,anticholinergic,Proair HFA, prevention that you must follow : Identify Asthma Triggers, Stay Away From Allergens,Avoid Smoke of Any Type,SUGGESTED FOODS ARE:carrots,juice,eggs,broccoli,cantaloupe,milk
